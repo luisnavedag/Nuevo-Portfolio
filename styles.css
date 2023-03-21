@@ -700,12 +700,12 @@ header{
   }
 
   .contact{
-    width: 100%;
+    width: 100vw;
     min-height: max-content;
     margin-right: -50px;
     padding: 0;
-    width: 100vw;
-    gap: 20px;
+    margin-bottom: -40px;
+
   }
   .contact-form{
     display: flex;
