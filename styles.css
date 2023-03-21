@@ -658,6 +658,13 @@ header{
   .about p{
     width: 350px;
   }
+
+  .skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .skills-names{
     visibility: hidden;
   }
