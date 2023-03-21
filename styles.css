@@ -636,7 +636,15 @@ header{
   } 
 
   .home-content p{ 
-    width: 350px;
+    width: 300px;
+    font-size: 13px;
+  }
+  .home-content h1{
+    font-size: 30px;
+  }
+
+  .home-content h3{
+    font-size: 20px;
   }
 
   .home-img{
