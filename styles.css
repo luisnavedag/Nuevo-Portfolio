@@ -595,7 +595,6 @@ header{
     padding: 0;
     width: 100%;
     overflow-x:hidden;
-    initial-scale
     margin-right: 80px;
   }
 
@@ -608,7 +607,7 @@ header{
     display: flex;
     flex-direction: row;
     width: max-content;
-    gap: 10px;
+    gap: 5px;
     margin-left: -100px;
   }
 
@@ -620,7 +619,7 @@ header{
     visibility: hidden;
   }
   .home{
-    margin-top: 90px;
+    margin-top: 40px;
     min-height: 100vh;
     width: 100%;
     margin-bottom: 15px;
