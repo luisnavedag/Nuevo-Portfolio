@@ -640,14 +640,14 @@ header{
   }
 
   .home-img{
-    padding: 30px;
+    margin-top: 40px;
     justify-content: center;
     align-items: center;
 
   }
   .home-img img{
-    width: 350px;
-    height: 350px;
+    width: 400px;
+    height: 400px;
     padding-bottom: 20px;
   
   }
@@ -655,6 +655,8 @@ header{
   .skills-names{
     visibility: hidden;
   }
+
+  
 }
 
 
