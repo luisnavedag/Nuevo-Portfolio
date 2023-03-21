@@ -688,6 +688,13 @@ header{
     max-width: 90vw;
     height: 250px;
   }
+
+  .projects-desc{
+ 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
 }
 
 
