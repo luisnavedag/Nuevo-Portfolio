@@ -737,6 +737,10 @@ header{
     justify-content: center;
     align-items: center;
   }
+
+  .footer h5{
+    text-align: end;
+  }
   .media{
     gap: -5px;
    
