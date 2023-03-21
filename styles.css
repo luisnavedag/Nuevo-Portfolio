@@ -589,6 +589,68 @@ header{
   }
 }
 
+@media (max-width: 426px){
+  html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x:hidden;
+
+    margin-right: 80px;
+  }
+
+  .header{
+    display: flex;
+    flex-wrap: nowrap;
+  }
+
+  .navbar{
+    display: flex;
+    flex-direction: row;
+    width: max-content;
+    gap: 10px;
+    margin-left: -100px;
+  }
+
+  .navbar a{
+    font-size: 15px;
+  }
+
+  a.logo{
+    visibility: hidden;
+  }
+  .home{
+    margin-top: 90px;
+    min-height: 100vh;
+    width: 100%;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .home-content{
+  width: fit-content;
+  gap: 20px;
+  } 
+
+  .home-content p{ 
+    width: 400px;
+  }
+
+  .home-img img{
+    width: 150px;
+    height: 150px;
+    padding-bottom: 20px;
+  
+  }
+
+  .skills-names{
+    visibility: hidden;
+  }
+}
 
 
 
