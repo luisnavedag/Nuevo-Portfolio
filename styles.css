@@ -732,8 +732,11 @@ header{
   }
 
   .footer{
-    width: fit-content;
-    
+    width: 100vw;
+
+  }
+  .footer .media a{
+    font-size: 10px;
   }
 }
 
