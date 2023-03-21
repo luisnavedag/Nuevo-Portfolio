@@ -665,6 +665,7 @@ header{
   }
 
   .about p{
+    margin-top: -150px;
     width: 350px;
   }
 
@@ -690,10 +691,36 @@ header{
   }
 
   .projects-desc{
- 
+    width: fit-content;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+  }
+
+  .contact{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    gap: 20px;
+  }
+  .contact-form{
+    display: flex;
+    flex-direction: column;
+    margin-top: -90px;
+    width: 100vw;
+    padding: 10px;
+  }
+
+  .contact-form form input{
+    width: 100%;
+  }
+  .contact-form form textarea{
+    width: 400px;
+    height: 100px;
+  }
+
+  .contact-form form button{
+    width: 50vw;
   }
 }
 
