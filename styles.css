@@ -743,7 +743,7 @@ header{
   }
   .media{
     gap: -5px;
-   
+    padding-right: 20px;
   }
 }
 
