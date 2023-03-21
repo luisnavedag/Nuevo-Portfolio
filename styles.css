@@ -601,13 +601,13 @@ header{
   .header{
     display: flex;
     flex-wrap: nowrap;
+    min-width: 425px;
   }
 
   .navbar{
     display: flex;
     flex-direction: row;
     width: max-content;
-    gap: 5px;
     margin-left: -100px;
   }
 
