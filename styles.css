@@ -736,9 +736,9 @@ header{
   }
 
   .footer h5{
-    text-align: center;
+    text-align: end;
     font-size: 10px;
-    margin-left: 15px;
+    margin-left: 25px;
   }
   .footer .media{
     gap: -20px;
