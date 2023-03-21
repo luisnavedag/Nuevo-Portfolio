@@ -737,7 +737,10 @@ header{
     justify-content: center;
     align-items: center;
   }
-
+  .media{
+    gap: -5px;
+   
+  }
 }
 
 
