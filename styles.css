@@ -651,7 +651,13 @@ header{
     padding-bottom: 20px;
   
   }
+  .about{
+ margin-top: 20px;
+  }
 
+  .about p{
+    width: 350px;
+  }
   .skills-names{
     visibility: hidden;
   }
