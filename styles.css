@@ -740,9 +740,10 @@ header{
 
   .footer h5{
     text-align: end;
+    font-size: 10px;
     margin-left: 15px;
   }
-  .media{
+  .fotter .media{
     gap: -5px;
     padding-right: 20px;
     margin-right: 20px;
