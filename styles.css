@@ -665,6 +665,10 @@ header{
     justify-content: center;
     align-items: center;
   }
+
+  .skills-marco{
+    margin-left: 20px;
+  }
   .skills-names{
     visibility: hidden;
   }
