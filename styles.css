@@ -698,29 +698,35 @@ header{
   }
 
   .contact{
-    margin: 0;
-    padding: 0;
     width: 100%;
+    min-height: 100vh;
+    margin-right: -50px;
+    padding: 0;
+    width: 100vw;
     gap: 20px;
   }
   .contact-form{
     display: flex;
     flex-direction: column;
     margin-top: -90px;
-    width: 100vw;
+    width: 90%;
     padding: 10px;
+    margin-right: 20px;
   }
 
-  .contact-form form input{
-    width: 100%;
+  .contact-form form p input{
+    width: 90vw;
+    margin-left: -40px;
   }
-  .contact-form form textarea{
-    width: 400px;
+  .contact-form form p textarea{
+    width: 90vw;
     height: 100px;
+    margin-left: -40px;
   }
 
   .contact-form form button{
     width: 50vw;
+    margin-left: -40px;
   }
 }
 
