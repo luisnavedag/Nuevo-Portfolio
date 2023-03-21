@@ -602,7 +602,7 @@ header{
     width: 100%;
     display: flex;
     flex-wrap: nowrap;
-    
+    padding-right: 20px;
   }
 
   .navbar{
